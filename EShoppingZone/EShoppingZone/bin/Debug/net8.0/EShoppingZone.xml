@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EShoppingZone</name>
+    </assembly>
+    <members>
+        <member name="T:EShoppingZone.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:EShoppingZone.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EShoppingZone.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EShoppingZone.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:EShoppingZone.Migrations.ProductAdded">
+            <inheritdoc />
+        </member>
+        <member name="M:EShoppingZone.Migrations.ProductAdded.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EShoppingZone.Migrations.ProductAdded.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EShoppingZone.Migrations.ProductAdded.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:EShoppingZone.Migrations.ProductTableAdded">
+            <inheritdoc />
+        </member>
+        <member name="M:EShoppingZone.Migrations.ProductTableAdded.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EShoppingZone.Migrations.ProductTableAdded.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:EShoppingZone.Migrations.ProductTableAdded.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
